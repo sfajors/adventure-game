@@ -1,5 +1,5 @@
 # Adventure Game
-In this graphical adventure game, you and a group of friends enter a haunted house. Rumor has it that there's a hidden treasure in one of the rooms. Will you be the one to find it?
+In this graphical adventure game, you and a group of friends enter a haunted house. Rumor has it that there's a hidden treasure in one of the rooms. Will you be the one to find it? When I initially started learning Python, I created this game with a smaller number of rooms and designed it to function as a command-line interface (CLI) application. However, I have since revisited it and transformed it into a graphical user interface (GUI) application, adding more rooms in the process.
 
 ## Gameplay
 **1. Start the Journey:** Begin by clicking the "Begin the Adventure" button
